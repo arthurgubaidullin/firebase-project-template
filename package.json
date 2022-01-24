@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "scripts": {
+    "emulators:start": "firebase emulators:start"
+  },
+  "private": true,
+  "devDependencies": {
+    "firebase-tools": "^10.1.2"
+  }
+}
